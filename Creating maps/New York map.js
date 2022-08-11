@@ -1,0 +1,1 @@
+let map = loadMap('map', [40.8, -74], 10);
